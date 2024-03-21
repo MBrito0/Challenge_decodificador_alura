@@ -37,7 +37,3 @@ Extra
 GitHub Pages
 
 --> https://moisesventtura.github.io/decodificador-alura/
-
-Badge pela Conclusão do Desafio
----
-<img width="400" heigth="400" src="https://user-images.githubusercontent.com/53119511/182505237-fe83c597-f435-4ed5-bdf8-5b70b99537ca.png">
