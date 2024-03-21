@@ -36,4 +36,4 @@ Extra
 
 GitHub Pages
 
---> https://moisesventtura.github.io/decodificador-alura/
+--> https://decodificador-alura-seven.vercel.app/
